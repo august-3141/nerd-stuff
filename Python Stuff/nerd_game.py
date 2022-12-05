@@ -9,8 +9,11 @@ print('*** Math Game ***')
 qAmount = 0
 
 try:
+
     qAmount = int(input("How many questions would you like? "))
+
 except:
+
     print("That's not a valid number!")
 
 qCurrent = 0
@@ -39,12 +42,14 @@ while qCurrent < qAmount:
         print("-----------------------")
         incorrectCount = incorrectCount + 1
         
-
     qCurrent = qCurrent + 1
 
 print(f'You got {correctCount} right and {incorrectCount} wrong. That\'s {round(correctCount / qAmount * 100)}% accuracy!')
 
 if (correctCount / qAmount * 100) >= 70:
+
     print('Nice work on the quiz!')
+
 else:
+
     print('There\'s always next time!')
