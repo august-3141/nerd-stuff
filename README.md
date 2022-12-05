@@ -3,8 +3,8 @@
 
 ---
 
-Pictured above is an image of my vscode at the moment of creating this file.
+Pictured above is an image of my VSCode at the moment of creating this file.
 
 ---
 
-That should be enough for any experienced reader to understand why I do not put much more into this readme file.
+That should be enough for any experienced reader to understand why I do not put much more into this readme file. This is not a serious project and I do not intend to make it as such.
