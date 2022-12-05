@@ -30,17 +30,19 @@ while qCurrent < qAmount:
     if answer == eval(question):
         
         print("Good Job!")
+        print("--------")
         correctCount = correctCount + 1
     
     else:
 
         print(f"Sorry, the answer was {eval(question)}!")
+        print("-----------------------")
         incorrectCount = incorrectCount + 1
         
 
     qCurrent = qCurrent + 1
 
-print(f'You got {correctCount} right and {incorrectCount} wrong. That\'s {correctCount / qAmount * 100}% accuracy!')
+print(f'You got {correctCount} right and {incorrectCount} wrong. That\'s {round(correctCount / qAmount * 100)}% accuracy!')
 
 if (correctCount / qAmount * 100) >= 70:
     print('Nice work on the quiz!')
