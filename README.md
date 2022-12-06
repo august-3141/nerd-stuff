@@ -4,5 +4,5 @@
 Pictured above is an image of my VSCode at the moment of creating this file.
 
 ---
-
-Made by a nerdy lesbian. This is more of a hobby to me, nothing will be very serious here.
+This is more of a hobby to me, nothing will be very serious here.
+Made by a nerdy lesbian.
