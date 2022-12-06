@@ -5,4 +5,4 @@ Pictured above is an image of my VSCode at the moment of creating this file.
 
 ---
 
-I am not very experienced in programming and I will not take this repository very seriously. Have a good one.
+This is more of a hobby, as evidenced by the font I use, and as such this isn't a serious project.
