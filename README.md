@@ -5,4 +5,4 @@ Pictured above is an image of my VSCode at the moment of creating this file.
 
 ---
 
-This is more of a hobby, as evidenced by the font I use, and as such this isn't a serious project.
+This is more of a hobby to me, nothing will be very serious here.
