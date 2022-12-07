@@ -1,0 +1,1 @@
+console.log("Find an idea to make in javascript.");
