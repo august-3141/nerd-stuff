@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\JavaScript Stuff\\big_numbers.js"
+            "program": "${workspaceFolder}\\Node Stuff\\big_numbers.js"
         }
     ]
 }
