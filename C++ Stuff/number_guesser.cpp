@@ -9,17 +9,17 @@ int main() {
     int guess;
     int trueNum;
 
-    cout << "*** Number Guesser ***\n";
-    cout << "----------------------\n";
+    cout << "*** Number Guesser ***" << endl;
+    cout << "----------------------" << endl;
 
-    cout << "Enter your guess (1-10):\n";
+    cout << "Enter your guess (1-10): " << endl;
     cin >> guess;
 
     srand(time(0));
 
     trueNum = rand()%MAX;
 
-    cout << "The number was " << trueNum << ".\n";
+    cout << "The number was " << trueNum << "." << endl;
 
     if (trueNum == guess) {
 
