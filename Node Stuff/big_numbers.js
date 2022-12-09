@@ -1,7 +1,7 @@
 // Big nuumbers go weeee
 
-console.log("Big Number Time");
-console.log("---------------");
+console.log("*** Big Number Time ***");
+console.log("----------------------");
 
 function big_num(x) {
 
