@@ -6,6 +6,10 @@
 using namespace std;
 
 int main() {
+
+    cout << "*** Psuedo-random Number Counter ***" << endl;
+    cout << "------------------------------------" << endl;
+
    std::default_random_engine pseudo_random_generator;
    std::uniform_int_distribution<int> int_distribution(0, 9);
    
