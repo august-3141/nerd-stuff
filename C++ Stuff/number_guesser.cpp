@@ -1,3 +1,5 @@
+// number guessing go brr
+
 #include <iostream>
 #include <cstdlib>
 

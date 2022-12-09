@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) Launch",
+            "name": "Launch C++ Program",
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/C++ Stuff/number_guesser.cpp",
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "name": "Python: Current File",
+            "name": "Launch Python File",
             "type": "python",
             "request": "launch",
             "program": "${file}",
@@ -45,7 +45,7 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "Launch Node Program",
             "skipFiles": [
                 "<node_internals>/**"
             ],
