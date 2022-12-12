@@ -21,6 +21,6 @@ int main() {
     }
 
     for(int i = 0; i <= 9; i++) {
-       std::cout << actual_distribution[i] << " ";
+       std::cout << (i + 1) << ": " << actual_distribution[i] << ", ";
     }
 }
